@@ -1,3 +1,11 @@
+#9/10/20
+Updated logo and title screens. Still not done, but can be revisited later.
+Created new menu and added to game. Still not fully functional.
+Cleaned up unneeded background assets from the sample project.
+
+#9/9/20
+Started work on the town tileset.
+
 # 9/8/20
 Downloaded Piksel to help with sprite work.
 Created new Logo and title screens
