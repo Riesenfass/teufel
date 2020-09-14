@@ -1,4 +1,8 @@
-# 9/10/20
+# 9/14/20
+Created credits scene and figured out a way to make it scroll.
+Tried to get a credits option on the start menu, proved more difficult than expected. I did find a community plugin called 'no limit menu' that would work, but I'm going to wait for now.
+
+# 9/11/20
 Created a new cursor sprite, removing the default.
 Tweaked the menu a bit.
 Figured out why my menu select sprite wasn't animating - needed to make it static.
