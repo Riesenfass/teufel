@@ -1,3 +1,6 @@
+# 9/30/20
+More work on the town tileset. This is going to take a while.
+
 # 9/24/20
 Upgraded to GB Studio 2 Beta 2
 Started learning Aseprite. Started on the town tileset and exported it as a sample background to see how it would look.
