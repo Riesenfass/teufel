@@ -1,3 +1,6 @@
+# 10/1/20
+Did more work on the town tileset - created a stone wall that I think looks pretty good and changed the rocks into shrubs.
+
 # 9/30/20
 More work on the town tileset. This is going to take a while.
 
