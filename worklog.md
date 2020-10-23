@@ -1,3 +1,6 @@
+# 10/23/20
+Created a warrior sprite. Set as the default player sprite.
+
 # 10/1/20
 Did more work on the town tileset - created a stone wall that I think looks pretty good and changed the rocks into shrubs.
 
