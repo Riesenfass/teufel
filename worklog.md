@@ -1,3 +1,11 @@
+#5/28/21
+Changed the menu to be in scene and not full screen.
+Created a skeleton npc sprite
+
+# 5/20/21
+Upgraded to GB Studio Beta 5
+Modified the warrior sprite a bit
+
 # 10/23/20
 Created a warrior sprite. Set as the default player sprite.
 
